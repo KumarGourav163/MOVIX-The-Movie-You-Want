@@ -8,6 +8,8 @@ Discover your next favorite movie or web series with MOVIX! 🍿✨ <br><br>
 📺 Watch: Enjoy streaming your favorite content right here!<br>
 Join us on MOVIX and make every movie night special! 🌃🍕📽️<br><br>
 
+# Command :- npm run dev <br><br>
+
 # Photos <br>
 ![MovixPhone](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/39df0b92-00e4-4ca3-b56b-8dda2da8dfb9) <br>
 ![MovixPhone1](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/4fd9acfa-0a0c-48b9-ad48-dedc526e2ccd) <br>
