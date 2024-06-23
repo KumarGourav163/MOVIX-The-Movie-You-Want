@@ -8,6 +8,8 @@ Discover your next favorite movie or web series with MOVIX! 🍿✨ <br><br>
 📺 Watch: Enjoy streaming your favorite content right here!<br>
 Join us on MOVIX and make every movie night special! 🌃🍕📽️<br><br>
 
+# Warning :- Before running this project or the demo mode please connect to a VPN because the movie API which is used is currently not working in India. So if you watching from india then "Turbo VPN" is best
+
 # Command :- npm run dev <br><br>
 
 # Photos <br>
