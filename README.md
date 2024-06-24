@@ -12,9 +12,9 @@ Join us on MOVIX and make every movie night special! 🌃🍕📽️<br><br>
 
 # Command :- npm run dev <br><br>
 
-# Photos <br>
-![MovixPhone](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/39df0b92-00e4-4ca3-b56b-8dda2da8dfb9) <br>
-![MovixPhone1](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/4fd9acfa-0a0c-48b9-ad48-dedc526e2ccd) <br>
-![MovixLaptop2](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/d33b183e-1c97-4813-b0d3-ae0188daa845) <br>
-![MovixLaptop1](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/dc4d7436-990a-47d3-b823-8b2406cbed72) <br>
-![MovixLaptop](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/40e3ea33-9fb6-44cd-8a6c-969eb6482f77) <br>
+# There are some screenshots are :- <br>
+![MovixPhone](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/39df0b92-00e4-4ca3-b56b-8dda2da8dfb9)
+![MovixPhone1](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/4fd9acfa-0a0c-48b9-ad48-dedc526e2ccd)
+![MovixLaptop2](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/d33b183e-1c97-4813-b0d3-ae0188daa845)
+![MovixLaptop1](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/dc4d7436-990a-47d3-b823-8b2406cbed72)
+![MovixLaptop](https://github.com/KumarGourav163/MOVIX-The-Movie-You-Want/assets/150587805/40e3ea33-9fb6-44cd-8a6c-969eb6482f77)
